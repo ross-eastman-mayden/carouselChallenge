@@ -1,0 +1,19 @@
+.card {
+ border: 1px solid #000000;
+}
+
+.carouselBox {
+    margin: 10px 10px 10px 10px;
+}
+
+.leftBorder {
+    float: left;
+    diplay: none;
+    z-index: 9;
+}
+
+.rightBorder {
+    float: right;
+    diplay: none;
+    z-index: 9;
+}
